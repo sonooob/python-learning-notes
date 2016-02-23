@@ -1,5 +1,5 @@
 # 学习笔记
-<p>学习内容:</p>
+<p><b>学习内容:</b></p>
 <p>基本语法  coursera课程学习    --------完成</p>
 <p>SAE应用搭建   ------完成</p>
 <p>爬虫项目，了解HTML ---已报名，学习中</p>
@@ -12,10 +12,10 @@
 <p>Axure RP安装学习 -----已安装等待学习</p>
 <p>Github注册使用------已注册使用中</p>
 
-<p>课程学习：</p>
+<p><b>课程学习：</b></p>
 <p>Python for everybody_ Coursera  -------完成</p>
 
-<p>网站搭建：</p>
+<p><b>网站搭建：</b></p>
 <p>bootstrap</p>
 <p>Django</p>
 <p>flask</p>
