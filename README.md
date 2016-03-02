@@ -14,8 +14,10 @@
 
 <p><b>课程学习：</b></p>
 <p>Python for everybody_ Coursera  -------完成</p>
+<p>Python 实践爬虫项目课程 </p>
 
 <p><b>网站搭建：</b></p>
 <p>bootstrap</p>
 <p>Django</p>
 <p>flask</p>
+<p>Wordpress</p>
