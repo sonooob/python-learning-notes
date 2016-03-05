@@ -1,4 +1,6 @@
 # 学习笔记
+<hr>
+<div>
 <p><b>学习内容:</b></p>
 <p>基本语法  coursera课程学习    --------完成</p>
 <p>SAE应用搭建   ------完成</p>
@@ -11,13 +13,17 @@
 <p>微信公众号后台对接 ----已申请，等待学习后台开发者模式</p>
 <p>Axure RP安装学习 -----已安装等待学习</p>
 <p>Github注册使用------已注册使用中</p>
-
+</div>
+<div>
 <p><b>课程学习：</b></p>
-<p><a href=https://www.coursera.org/specializations/python>Python for everybody_ Coursera</a>  -------完成</p>
+<p><a href=https://www.coursera.org/specializations/python>Python for everybody_ Coursera</a>  ----完成</p>
 <p><a href=http://study.163.com/course/courseMain.htm?courseId=1002794001>Python 实践爬虫项目课程</a> </p>
-
+<p><a href=http://study.163.com/course/courseMain.htm?courseId=266016>WordPress建站课程</a> </p>
+</div>
+<div>
 <p><b>网站搭建：</b></p>
 <p>bootstrap</p>
 <p>Django</p>
 <p>flask</p>
 <p>Wordpress</p>
+</div>
