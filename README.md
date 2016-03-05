@@ -19,6 +19,7 @@
 <p><b>课程学习：</b></p>
 <p><a href=https://www.coursera.org/specializations/python>Python for everybody_ Coursera</a>  ----完成</p>
 <p><a href=http://study.163.com/course/courseMain.htm?courseId=1002794001>Python 实践爬虫项目课程</a> </p>
+<p><a href=http://study.163.com/course/courseMain.htm?courseId=320022>Python Django 快速Web应用开发入门</a> </p>
 <p><a href=http://study.163.com/course/courseMain.htm?courseId=266016>WordPress建站课程</a> </p>
 </div>
 <br>
