@@ -22,8 +22,8 @@
 </div>
 <div>
 <p><b>网站搭建：</b></p>
-<p>bootstrap</p>
-<p>Django</p>
-<p>flask</p>
+<br>
+<p>Django+Bootstrap</p>
+
 <p>Wordpress</p>
 </div>
