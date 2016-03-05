@@ -13,7 +13,7 @@
 <p>Github注册使用------已注册使用中</p>
 
 <p><b>课程学习：</b></p>
-<p>Python for everybody_ Coursera  -------完成</p>
+<p><a href=https://www.coursera.org/specializations/python>Python for everybody_ Coursera</a>  -------完成</p>
 <p>Python 实践爬虫项目课程 </p>
 
 <p><b>网站搭建：</b></p>
